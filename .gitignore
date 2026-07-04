@@ -1,0 +1,30 @@
+# ==========================================
+# Machine Learning Data (Keep heavy files out)
+# ==========================================
+dataset/
+images/
+*.zip
+*.tar.gz
+
+# ==========================================
+# Python Cache and Environments
+# ==========================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ==========================================
+# Interface and IDE Configurations
+# ==========================================
+.streamlit/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

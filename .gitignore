@@ -28,3 +28,11 @@ pip-delete-this-directory.txt
 .idea/
 .DS_Store
 Thumbs.db
+
+*.ppt
+*.pptx
+*.pdf
+*.mp4
+*.mkv
+*.mov
+*.avi

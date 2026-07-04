@@ -31,13 +31,3 @@ A secure, cloud-independent computer vision application engineered to detect syn
 
 ---
 
-## Installation & Local Setup
-
-Follow these steps to set up and run the application locally on your machine using standard consumer hardware:
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/Malavika-sarun/Deepfake-Identity-Detection
-](https://github.com/Malavika-sarun/Deepfake-Identity-Detection
-.git)
-cd Deepfake-Identity-Detection
